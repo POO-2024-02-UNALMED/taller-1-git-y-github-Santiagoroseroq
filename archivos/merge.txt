@@ -1,1 +1,3 @@
 Hola Soy Stiven Santiago Rosero Quemag tengo 21 años y mis aspiraciones son aprender a programar aprender todo lo que nos proporciona el profesor y los tutores 
+¿Por que es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+por conflictos de fusión cuando dos persona editan el mismo archivo git no sabe cual cambio debe priorizar
